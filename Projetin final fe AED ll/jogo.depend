@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1589858924 source:c:\users\caiol\documents\programação\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1589857608 c:\users\caiol\documents\programação\jogo\biblioteca.h
+
+1589858898 source:c:\users\caiol\documents\programação\jogo\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1589859548 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master2.0\jogo versão 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1589930842 c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master2.0\jogo versão 2\biblioteca.h
+
+1589859548 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master2.0\jogo versão 2\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"biblioteca.h"
+
+1589932746 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master2.0\jogo versão 2\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1589932651 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master2.0\jogo versão 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1589944481 source:c:\users\lukas\desktop\trabaio-master\jogo versão 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1589945099 c:\users\lukas\desktop\trabaio-master\jogo versão 2\biblioteca.h
+
+1589945112 source:c:\users\lukas\desktop\trabaio-master\jogo versão 2\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1590030070 source:c:\users\lukas\desktop\trabaio-mastera\jogo versão 2\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1590033911 c:\users\lukas\desktop\trabaio-mastera\jogo versão 2\biblioteca.h
+
+1590033870 source:c:\users\lukas\desktop\trabaio-mastera\jogo versão 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1590165832 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\cuiz com algumas inteaçoes bugadas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1590159135 c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\cuiz com algumas inteaçoes bugadas\biblioteca.h
+
+1590166118 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\cuiz com algumas inteaçoes bugadas\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<graphics.h>
+	"biblioteca.h"
+
+1591426709 source:c:\users\lukas\desktop\nova pasta (2)\trabaio-master\cuiz com algumas inteaçoes bugadas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591425941 c:\users\lukas\desktop\nova pasta (2)\trabaio-master\cuiz com algumas inteaçoes bugadas\biblioteca.h
+
+1591426508 source:c:\users\lukas\desktop\nova pasta (2)\trabaio-master\cuiz com algumas inteaçoes bugadas\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591426709 source:c:\users\lukas\desktop\cuiz com algumas inteaçoes bugadas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591425941 c:\users\lukas\desktop\cuiz com algumas inteaçoes bugadas\biblioteca.h
+
+1591918160 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\quase final\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591427681 c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\quase final\biblioteca.h
+
+1591921095 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\quase final\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591918160 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\corre q e pra amanha\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591427681 c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\corre q e pra amanha\biblioteca.h
+
+1591921416 source:c:\users\ulyss\onedrive\área de trabalho\aulas\aed ii\trabaio-master\corre q e pra amanha\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591933191 source:c:\users\lukas\desktop\corre q e pra amanha\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<locale.h>
+	"Graphics.h"
+	"biblioteca.h"
+
+1591932183 c:\users\lukas\desktop\corre q e pra amanha\biblioteca.h
+
+1591932447 source:c:\users\lukas\desktop\corre q e pra amanha\biblioteca.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	"Graphics.h"
+	"biblioteca.h"
+
